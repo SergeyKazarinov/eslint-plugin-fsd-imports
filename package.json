@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-fsd-import-plugin",
-  "version": "0.0.7",
+  "name": "eslint-plugin-kss-fsd-imports",
+  "version": "0.0.11",
   "description": "plugin for file imports in FSD architecture",
   "keywords": [
     "eslint",
